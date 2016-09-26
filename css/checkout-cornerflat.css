@@ -276,7 +276,7 @@
 	transition-delay: 0.18s;
 }
 
-@media screen and (max-width: 26em) { 
+@media screen and (max-width: 26em) {
 	.checkout--active .checkout__button {
 		cursor: default;
 		-webkit-transform: translate3d(-100%, 0, 0);
