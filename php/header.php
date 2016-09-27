@@ -32,7 +32,8 @@
                 </tfoot>
                 <tbody></tbody>
             </table><!-- /checkout__summary -->
-            <button class="checkout__option checkout__option--silent checkout__cancel"><i class="fa fa-angle-left"></i> Continue Shopping</button><button class="checkout__option">Buy</button>
+            <button class="checkout__option checkout__option--silent checkout__cancel"><i class="fa fa-angle-left"></i> Continue Shopping</button>
+            <button class="checkout__option buy">Buy</button>
             <button class="checkout__close checkout__cancel"><i class="icon fa fa-fw fa-close"></i>Close</button>
           </div><!-- /checkout__order-inner -->
         </div><!-- /checkout__order -->
