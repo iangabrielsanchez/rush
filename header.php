@@ -11,7 +11,7 @@
       <ul class = 'nav navbar-nav navbar-right'>
         <li><a href = "#">About</a></li>
         <li><a href = "#">Contact Us</a></li>
-        <li><a href = "#">Admin Login</a></li>
+        <li><a href = "login.php">Admin Login</a></li>
       </ul>
       <div class="checkout">
         <a class="checkout__button" href="#"><!-- Fallback location -->

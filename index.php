@@ -10,6 +10,8 @@
 		<link rel="stylesheet" type="text/css" href="css/checkout-cornerflat.css"/>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
 		<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/bootstrap.js"></script>
 		<!--[if IE]>
   		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
